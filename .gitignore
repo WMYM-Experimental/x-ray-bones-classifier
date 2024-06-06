@@ -1,6 +1,8 @@
-
-*.png
-*.jpg
-*.jpeg
 *.pth
 *.pyc
+/data/test/fractured
+/data/test/not fractured
+/data/train/fractured
+/data/train/not fractured
+/data/val/fractured
+/data/val/not fractured
